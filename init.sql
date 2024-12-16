@@ -1,0 +1,3 @@
+CREATE DATABASE payment;
+CREATE DATABASE product;
+CREATE DATABASE orders;
